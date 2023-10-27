@@ -8,7 +8,7 @@ https://www.loom.com/share/c80b2b0ea6c245fc93180e9038bb9a73?sid=2b2fdb19-20e4-44
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Dependencies  you need to install and import in your project directories
+## Dependencies  you need to install and import in your project directories.
 for client:
 npm install axios
 npm install font-awesome
